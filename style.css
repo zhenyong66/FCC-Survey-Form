@@ -1,0 +1,33 @@
+.container {
+    max-width=720px;
+    margin: auto 20% auto 20%;
+  }
+  
+  .header {
+    text-align: center;
+    color: white;
+    margin: auto 5% auto 5%;
+  }
+  
+  form {
+    color: white;
+    background: #592B53;
+    border-radius: 1%;
+    margin: 30px;
+    padding: 30px;
+    padding-left: 50px;
+    padding: 5%;
+  }
+  
+  #name, #email, #age, #role, #gender, #feature, #comment {
+    width: 100%;
+    margin-right: 15px;;
+  }
+  
+  #survey-form {
+    margin: 10px auto auto auto;
+  }
+  
+  label {
+    align-items: center;
+  }
